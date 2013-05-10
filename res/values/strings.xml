@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">LayoutsExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="element1">Elemento 1</string>
+    <string name="element2">Elemento 2</string>
+    <string name="element3">Elemento 3</string>
+    <string name="element4">Elemento 4</string>
+    <string name="title_activity_second_example">SecondExample</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="register">Registro</string>
+    <string name="title_activity_third_example">ThirdExample</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_fourth_example">FourthExample</string>
+    <string name="direccion_de_correo">Dirección de correo</string>
+    <string name="email">Email</string>
+
+</resources>
